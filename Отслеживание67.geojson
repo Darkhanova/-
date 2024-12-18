@@ -1,0 +1,3125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248164,
+                    52.253155
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:47:03",
+                "stop_name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.252533,
+                    52.25078
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:48:38",
+                "stop_name": "Юридический институт"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262981,
+                    52.257275
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:52:53",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.25709,
+                    52.268942
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:56:02",
+                "stop_name": "Жуковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307269,
+                    52.309367
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:53:20",
+                "stop_name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.315553,
+                    52.315792
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:55:35",
+                "stop_name": "Яковлева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248343,
+                    52.252704
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "18:57:33",
+                "stop_name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248689,
+                    52.258947
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "19:20:48",
+                "stop_name": "Школа №55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248265,
+                    52.252885
+                ]
+            },
+            "properties": {
+                "date": "23-11-2024",
+                "day": "Saturday",
+                "time": "19:23:42",
+                "stop_name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "13:57:41",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.303774,
+                    52.307634
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:25:41",
+                "stop_name": "Пшеничная"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307609,
+                    52.309538
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:26:53",
+                "stop_name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248436,
+                    52.259098
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:34:23",
+                "stop_name": "Школа №55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248436,
+                    52.259098
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:34:23",
+                "stop_name": "Школа №55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262981,
+                    52.257275
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:35:26",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.260113,
+                    52.262917
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:37:22",
+                "stop_name": "Технический университет"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.25709,
+                    52.268942
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:39:29",
+                "stop_name": "Жуковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.25597,
+                    52.274879
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:42:12",
+                "stop_name": "Педучилище"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:45:06",
+                "stop_name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.250113,
+                    52.286093
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:47:07",
+                "stop_name": "Гоголя"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.254308,
+                    52.287429
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:48:54",
+                "stop_name": "ул. Маяковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.273952,
+                    52.288112
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:53:10",
+                "stop_name": "Чкалова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.280771,
+                    52.283433
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:56:41",
+                "stop_name": "Художественный музей"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.284807,
+                    52.277981
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:00:10",
+                "stop_name": "Филармония"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.29171,
+                    52.295336
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:12:23",
+                "stop_name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291901,
+                    52.295472
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:12:39",
+                "stop_name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262941,
+                    52.257524
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:50:57",
+                "stop_name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.235795,
+                    52.256375
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:14:17",
+                "stop_name": "Вампилова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.235795,
+                    52.256375
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:14:17",
+                "stop_name": "Вампилова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234022,
+                    52.253433
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:20:00",
+                "stop_name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234022,
+                    52.253433
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:21:31",
+                "stop_name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:26:50",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:26:50",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321713,
+                    52.324988
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:21:16",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321713,
+                    52.324988
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:24:26",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.317944,
+                    52.321249
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:26:06",
+                "stop_name": "Енисейская"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307321,
+                    52.30944
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:30:07",
+                "stop_name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.298172,
+                    52.306066
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:33:02",
+                "stop_name": "Гараж"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.297889,
+                    52.301366
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:35:03",
+                "stop_name": "ГПТУ №1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291986,
+                    52.295663
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:37:24",
+                "stop_name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291789,
+                    52.29553
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:37:28",
+                "stop_name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.285735,
+                    52.276748
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:51:10",
+                "stop_name": "Ленина"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.28183,
+                    52.288097
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:56:11",
+                "stop_name": "Площадь графа Сперанского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247816,
+                    52.289707
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:04:54",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.250771,
+                    52.278928
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:10:48",
+                "stop_name": "Чайка"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248538,
+                    52.25268
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:22:57",
+                "stop_name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.235795,
+                    52.256375
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:31:01",
+                "stop_name": "Вампилова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234014,
+                    52.253695
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:33:20",
+                "stop_name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234014,
+                    52.253695
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:33:30",
+                "stop_name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234022,
+                    52.253433
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:35:38",
+                "stop_name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "16:36:32",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:56:01",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:57:06",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:57:06",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "14:57:06",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:04:42",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:04:42",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321713,
+                    52.324988
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:06:54",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321713,
+                    52.324988
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:06:54",
+                "stop_name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307505,
+                    52.309532
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:17:12",
+                "stop_name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.298177,
+                    52.305976
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:20:46",
+                "stop_name": "Гараж"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291691,
+                    52.295463
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:25:10",
+                "stop_name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.285735,
+                    52.276748
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:37:09",
+                "stop_name": "Ленина"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247384,
+                    52.289655
+                ]
+            },
+            "properties": {
+                "date": "24-11-2024",
+                "day": "Sunday",
+                "time": "15:51:19",
+                "stop_name": "Курорт Ангара"
+            }
+        }
+    ]
+}

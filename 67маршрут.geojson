@@ -1,0 +1,850 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234086,
+                    52.253608
+                ]
+            },
+            "properties": {
+                "name": "Первомайский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.235889,
+                    52.256467
+                ]
+            },
+            "properties": {
+                "name": "Вампилова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.242928,
+                    52.262626
+                ]
+            },
+            "properties": {
+                "name": "Ботанический Сад"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248371,
+                    52.259314
+                ]
+            },
+            "properties": {
+                "name": "Школа №55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248457,
+                    52.252853
+                ]
+            },
+            "properties": {
+                "name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.252722,
+                    52.250775
+                ]
+            },
+            "properties": {
+                "name": "Юридический институт"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262952,
+                    52.257454
+                ]
+            },
+            "properties": {
+                "name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.260023,
+                    52.263088
+                ]
+            },
+            "properties": {
+                "name": "Технический университет"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.257232,
+                    52.268708
+                ]
+            },
+            "properties": {
+                "name": "Жуковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.255879,
+                    52.27505
+                ]
+            },
+            "properties": {
+                "name": "Педучилище"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253176,
+                    52.280158
+                ]
+            },
+            "properties": {
+                "name": "Свердловский рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.250157,
+                    52.286007
+                ]
+            },
+            "properties": {
+                "name": "Гоголя"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.254015,
+                    52.287385
+                ]
+            },
+            "properties": {
+                "name": "ул. Маяковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.27385,
+                    52.288047
+                ]
+            },
+            "properties": {
+                "name": "Чкалова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.282253,
+                    52.286264
+                ]
+            },
+            "properties": {
+                "name": "Сквер им. Кирова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.280771,
+                    52.283433
+                ]
+            },
+            "properties": {
+                "name": "Художественный музей"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.285047,
+                    52.278085
+                ]
+            },
+            "properties": {
+                "name": "Филармония"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.293136,
+                    52.281733
+                ]
+            },
+            "properties": {
+                "name": "Центральный рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.293136,
+                    52.281733
+                ]
+            },
+            "properties": {
+                "name": "Центральный рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.296075,
+                    52.289587
+                ]
+            },
+            "properties": {
+                "name": "Завод им. Куйбышева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.292779,
+                    52.290714
+                ]
+            },
+            "properties": {
+                "name": "Институт зрения"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.290403,
+                    52.291278
+                ]
+            },
+            "properties": {
+                "name": "Декабрьских Событий"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291789,
+                    52.29553
+                ]
+            },
+            "properties": {
+                "name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.297932,
+                    52.301561
+                ]
+            },
+            "properties": {
+                "name": "ГПТУ №1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.298172,
+                    52.306066
+                ]
+            },
+            "properties": {
+                "name": "Гараж"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.304006,
+                    52.30775
+                ]
+            },
+            "properties": {
+                "name": "Пшеничная"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307496,
+                    52.309481
+                ]
+            },
+            "properties": {
+                "name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.323051,
+                    52.306003
+                ]
+            },
+            "properties": {
+                "name": "Чапаева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.330194,
+                    52.291378
+                ]
+            },
+            "properties": {
+                "name": "Детская"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.315351,
+                    52.31544
+                ]
+            },
+            "properties": {
+                "name": "Яковлева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.316862,
+                    52.318906
+                ]
+            },
+            "properties": {
+                "name": "Шевцова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.321958,
+                    52.325131
+                ]
+            },
+            "properties": {
+                "name": "Топкинский микрорайон"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.317999,
+                    52.321381
+                ]
+            },
+            "properties": {
+                "name": "Енисейская"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.316862,
+                    52.318906
+                ]
+            },
+            "properties": {
+                "name": "Шевцова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.315351,
+                    52.31544
+                ]
+            },
+            "properties": {
+                "name": "Яковлева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.323051,
+                    52.306003
+                ]
+            },
+            "properties": {
+                "name": "Чапаева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.307496,
+                    52.309481
+                ]
+            },
+            "properties": {
+                "name": "Онкодиспансер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.298172,
+                    52.306066
+                ]
+            },
+            "properties": {
+                "name": "Гараж"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.297932,
+                    52.301561
+                ]
+            },
+            "properties": {
+                "name": "ГПТУ №1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.291789,
+                    52.29553
+                ]
+            },
+            "properties": {
+                "name": "Фортуна"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.292779,
+                    52.290714
+                ]
+            },
+            "properties": {
+                "name": "Институт зрения"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.293503,
+                    52.28921
+                ]
+            },
+            "properties": {
+                "name": "Кинотеатр Пионер"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.301744,
+                    52.28652
+                ]
+            },
+            "properties": {
+                "name": "Тимирязева"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.293136,
+                    52.281733
+                ]
+            },
+            "properties": {
+                "name": "Центральный рынок"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.285323,
+                    52.276842
+                ]
+            },
+            "properties": {
+                "name": "Ленина"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.280771,
+                    52.283433
+                ]
+            },
+            "properties": {
+                "name": "Художественный музей"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.281831,
+                    52.288008
+                ]
+            },
+            "properties": {
+                "name": "Площадь графа Сперанского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.27385,
+                    52.288047
+                ]
+            },
+            "properties": {
+                "name": "Чкалова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.255059,
+                    52.290443
+                ]
+            },
+            "properties": {
+                "name": "Джамбула"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.247528,
+                    52.289673
+                ]
+            },
+            "properties": {
+                "name": "Курорт Ангара"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.244893,
+                    52.286195
+                ]
+            },
+            "properties": {
+                "name": "2-я Железнодорожная"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.250988,
+                    52.278807
+                ]
+            },
+            "properties": {
+                "name": "Чайка"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.253685,
+                    52.274606
+                ]
+            },
+            "properties": {
+                "name": "Шмидта"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.257232,
+                    52.268708
+                ]
+            },
+            "properties": {
+                "name": "Жуковского"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.260023,
+                    52.263088
+                ]
+            },
+            "properties": {
+                "name": "Технический университет"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262952,
+                    52.257454
+                ]
+            },
+            "properties": {
+                "name": "Институт МВД"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.267078,
+                    52.248844
+                ]
+            },
+            "properties": {
+                "name": "Госуниверситет"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.260295,
+                    52.249057
+                ]
+            },
+            "properties": {
+                "name": "Мегаполис"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.252722,
+                    52.250775
+                ]
+            },
+            "properties": {
+                "name": "Юридический институт"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248457,
+                    52.252853
+                ]
+            },
+            "properties": {
+                "name": "Гуманитарный центр"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.248371,
+                    52.259314
+                ]
+            },
+            "properties": {
+                "name": "Школа №55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.242928,
+                    52.262626
+                ]
+            },
+            "properties": {
+                "name": "Ботанический Сад"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.235889,
+                    52.256467
+                ]
+            },
+            "properties": {
+                "name": "Вампилова"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.234086,
+                    52.253608
+                ]
+            },
+            "properties": {
+                "name": "Первомайский микрорайон"
+            }
+        }
+    ]
+}
